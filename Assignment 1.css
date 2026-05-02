@@ -1,0 +1,31 @@
+body {
+    background-color: #ffd700;
+}
+
+#ddiv {
+    margin-left: 100px;
+    width: 1300px;
+    height: 700px;
+}
+
+@font-face {
+    font-family: Creepster-Regular;
+    src: url(Fonts/Creepster-Regular.ttf);
+}
+
+h1.headh {
+    font-family: Creepster-Regular;
+    text-align: center;
+    text-decoration-color: transparent;
+    color: #800000;
+}
+
+img#homepic {
+    float: right;
+    height: 350px;
+}
+
+#marq {
+    width: 900px;
+    margin-left: 100px;
+}

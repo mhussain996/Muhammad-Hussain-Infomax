@@ -1,0 +1,26 @@
+body {
+    background-color: #00ff00;
+}
+
+#ddiv {
+    margin-left: 100px;
+    width: 1300px;
+    height: 700px;
+}
+
+@font-face {
+    font-family: Creepster-Regular;
+    src: url(Fonts/Creepster-Regular.ttf);
+}
+
+h1.headh {
+    font-family: Creepster-Regular;
+    text-align: center;
+    text-decoration-color: transparent;
+    color: #800000;
+}
+
+img#coursepic {
+    float: left;
+    height: 350px;
+}
